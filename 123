@@ -1,13 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html>
  <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-sscequiv="Content-Type" content="text/html; charset=utf-8">
   <title>Збраузера</title>
   <link rel="stylesheet" href="/style.css" type="text/css" />
  </head>
  <body>
   <h1>Загоdscvловок страницы</h1>
-  <!-- Комментарий -->
+  <!-- Коcdvfмментарий -->
   <p>Абзац...</p>
     
  </body>
@@ -19,7 +19,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', true);
 ini_set('html_errors', false);
-// Простой массив:
+// Просто
 $array = array(1, 3);
 $count = count($array);
 for ($i = 0; $i < $count; $i++) {
